@@ -14,7 +14,7 @@ TechSpecs
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshots/onboarding.jpeg">  
+<img src="assets/screenshot/onboarding.jpeg">  
  
 # Tabs Screen
-<img src="assets/images/screenshots/tabs.jpeg">  
+<img src="assets/screenshot/tabs.jpeg">  
