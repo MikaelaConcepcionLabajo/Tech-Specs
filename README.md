@@ -17,4 +17,4 @@ TechSpecs
 <img src="assets/images/onboarding.png">  
  
 # Tabs Screen
-<img src="assets/tabs.png">  
+<img src="assets/images/tabs.png">  
