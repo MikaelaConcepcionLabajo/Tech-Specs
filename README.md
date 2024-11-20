@@ -18,3 +18,6 @@ TechSpecs
  
 # Tabs Screen
 <img src="assets/screenshot/tabs.jpeg">  
+
+# Walkthrough
+https://youtu.be/T7gc2qcEPNA?si=FZA1OmArHMxB03zs
